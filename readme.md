@@ -11,7 +11,7 @@
 
 
 ## Link
-Link
+ https://arnavankush30.github.io/qr-code-component/
 
 ### Built it with
 
