@@ -11,7 +11,8 @@
 
 
 ## Link
- https://arnavankush30.github.io/qr-code-component/
+- Solution URL:(https://www.frontendmentor.io/solutions/mobile-first-qr-code-component-xLI8_GrxtF)
+- Live Site URL:(https://arnavankush30.github.io/qr-code-component/)
 
 ### Built it with
 
